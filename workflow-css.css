@@ -170,7 +170,7 @@
      ============================================================ */
   .hero {
     background: var(--hero-grad);
-    padding: 140px 0 140px;
+    padding: 140px 0 140px !important;
     position: relative;
     overflow: hidden;
   }
