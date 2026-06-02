@@ -170,7 +170,7 @@
      ============================================================ */
   .hero {
     background: var(--hero-grad);
-    padding: 80px 0 100px;
+    padding: 180px 0 100px;
     position: relative;
     overflow: hidden;
   }
@@ -2315,7 +2315,7 @@
   @media (max-width: 980px) {
     .container { padding: 0 24px; }
     .nav-links { display: none; }
-    .hero { padding: 60px 0 70px; }
+    .hero { padding: 160px 0 70px; }
     .hero-grid { grid-template-columns: 1fr; gap: 36px; }
     .hero h1 { font-size: 42px; line-height: 1.08; }
     .hero .lede { font-size: 17px; max-width: 100%; }
